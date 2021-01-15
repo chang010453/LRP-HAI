@@ -1,4 +1,4 @@
-# LRP-HAI of Sequential Objection Detection Based on Deep Reinforcement Learning with a Hybrid Attention Interface
+# LRP-HAI from *Sequential Objection Detection Based on Deep Reinforcement Learning with a Hybrid Attention Interface*
 
 Code is implemented on [faster-rcnn](https://github.com/endernewton/tf-faster-rcnn) and [drl-rpn](https://github.com/aleksispi/drl-rpn-tf)
 
